@@ -1,0 +1,6 @@
+@OAF.API_HostAddress = http://localhost:5082
+
+GET {{OAF.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
