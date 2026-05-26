@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\OAF.Application\OAF.Application.csproj" />
+    <ProjectReference Include="..\OAF.Domain\OAF.Domain.csproj" />
+    <ProjectReference Include="..\OAF.Shared\OAF.Shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
