@@ -13,7 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\OAF.Application\OAF.Application.csproj" />
     <ProjectReference Include="..\OAF.Infrastructure\OAF.Infrastructure.csproj" />
-    <ProjectReference Include="..\OAF.Shared\OAF.Shared.csproj" />
   </ItemGroup>
 
 </Project>
+ 

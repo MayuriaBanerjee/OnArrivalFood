@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Spice Garden",
+    "location": "Park Street, Kolkata",
+    "rating": 4.5,
+    "availableSeats": 12,
+    "cuisine": "Indian",
+    "deliveryTime": "20 mins",
+    "priceRange": "₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "description": "Authentic Indian dining experience with premium ambiance."
+  },
+  {
+    "id": 2,
+    "name": "Royal Bengal Dine",
+    "location": "Salt Lake, Kolkata",
+    "rating": 4.3,
+    "availableSeats": 8,
+    "cuisine": "Bengali",
+    "deliveryTime": "25 mins",
+    "priceRange": "₹₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+    "description": "Traditional Bengali cuisine with modern presentation."
+  },
+  {
+    "id": 3,
+    "name": "Urban Tandoor",
+    "location": "New Town, Kolkata",
+    "rating": 4.7,
+    "availableSeats": 15,
+    "cuisine": "North Indian",
+    "deliveryTime": "15 mins",
+    "priceRange": "₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5",
+    "description": "Famous for kebabs, biryani and tandoori specials."
+  },
+  {
+    "id": 4,
+    "name": "Pasta Piazza",
+    "location": "Ballygunge, Kolkata",
+    "rating": 4.4,
+    "availableSeats": 10,
+    "cuisine": "Italian",
+    "deliveryTime": "30 mins",
+    "priceRange": "₹₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de",
+    "description": "Fresh handmade pasta and wood-fired pizzas."
+  },
+  {
+    "id": 5,
+    "name": "Sushi Zen",
+    "location": "Camac Street, Kolkata",
+    "rating": 4.6,
+    "availableSeats": 6,
+    "cuisine": "Japanese",
+    "deliveryTime": "35 mins",
+    "priceRange": "₹₹₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
+    "description": "Premium sushi and Japanese fine dining experience."
+  },
+  {
+    "id": 6,
+    "name": "Burger Hub",
+    "location": "Howrah, Kolkata",
+    "rating": 4.1,
+    "availableSeats": 18,
+    "cuisine": "Fast Food",
+    "deliveryTime": "10 mins",
+    "priceRange": "₹",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "description": "Loaded burgers, fries and quick meals."
+  },
+  {
+    "id": 7,
+    "name": "The Green Bowl",
+    "location": "Rajarhat, Kolkata",
+    "rating": 4.5,
+    "availableSeats": 14,
+    "cuisine": "Healthy",
+    "deliveryTime": "18 mins",
+    "priceRange": "₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+    "description": "Healthy salads, bowls and organic meals."
+  },
+  {
+    "id": 8,
+    "name": "Dragon Wok",
+    "location": "Esplanade, Kolkata",
+    "rating": 4.2,
+    "availableSeats": 11,
+    "cuisine": "Chinese",
+    "deliveryTime": "22 mins",
+    "priceRange": "₹₹",
+    "imageUrl": "https://images.unsplash.com/photo-1525755662778-989d0524087e",
+    "description": "Asian fusion dishes with signature noodles and dim sums."
+  }
+]
