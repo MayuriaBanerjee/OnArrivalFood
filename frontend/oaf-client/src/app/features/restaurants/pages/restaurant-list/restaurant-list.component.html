@@ -1,0 +1,20 @@
+
+<h1>OAF Restaurants</h1>
+
+@for (restaurant of restaurants; track restaurant.id) {
+
+  <div>
+
+    <h2>{{ restaurant.name }}</h2>
+
+    <p>{{ restaurant.cuisine }}</p>
+
+    <p>{{ restaurant.location }}</p>
+
+    <p>⭐ {{ restaurant.rating }}</p>
+
+    <hr>
+
+  </div>
+
+}
